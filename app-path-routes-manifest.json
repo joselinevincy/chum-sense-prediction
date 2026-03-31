@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/predict/ml/route": "/api/predict/ml",
+  "/api/predict/route": "/api/predict",
+  "/batch-upload/page": "/batch-upload",
+  "/dashboard/page": "/dashboard",
+  "/docs/page": "/docs",
+  "/model-training/page": "/model-training",
+  "/page": "/",
+  "/pricing/page": "/pricing",
+  "/reports/page": "/reports"
+}
